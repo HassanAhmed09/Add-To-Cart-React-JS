@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Google Pixel",
+        "price": 1009,
+        "img": "/images/google.jpg"
+    },
+    {
+        "id":2,
+        "name": "Samsung",
+        "price": 1077,
+        "img": "/images/samsung.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple",
+        "price": 2150,
+        "img": "/images/apple.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi",
+        "price": 4510,
+        "img": "/images/xiaomi.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Motorolla",
+        "price": 1099,
+        "img": "/images/motorolla.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Motorolla",
+        "price": 1099,
+        "img": "/images/motorolla.jpg"
+    }
+]
